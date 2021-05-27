@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)]
+
 - 👋 Hi, I’m @VINAYTHUTE
 - 👀 I’m interested in Electronics,Robotics
 - 🌱 I’m currently learning Bare Metal programmming
