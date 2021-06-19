@@ -16,10 +16,10 @@ Being a Electronics and Communication Student with 8.3 CGPA, I am also the Vice 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
 Specialties:
-Embedded system Design 
-Industrial Automation 
-Languages:
-Embedded C
+Embedded system Design ,
+Industrial Automation. 
+
+Languages:Embedded C,C,C++,Python.
 
 PYTHON
 Labview
